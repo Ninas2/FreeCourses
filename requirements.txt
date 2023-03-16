@@ -1,5 +1,5 @@
-requests
-json
-pandas
-streamlit
-bs4
+beautifulsoup4==4.9.3
+json==0.9.5
+pandas==1.2.3
+requests==2.25.1
+streamlit==0.77.0
